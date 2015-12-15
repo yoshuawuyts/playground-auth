@@ -3,6 +3,11 @@
 
 auth toy project.
 
+### goals
+- [ ] oauth server
+- [ ] oauth client
+- [ ] safe cookies?
+
 ## Installation
 ```sh
 $ git clone https://github.com/yoshuawuyts/playground-auth
